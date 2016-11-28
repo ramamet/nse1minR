@@ -9,14 +9,14 @@ Installation :computer::inbox_tray::books:
 ------------
 `nse1minR` is available through GitHub.
 
-To install the latest version from GitHub:
+To install the latest version from GitHub: 
 
     install.packages("devtools")
     devtools::install_github("ramamet/nse1minR")
     
-It contains huge amount of datasets `(~ 40,000,000 rows of data!)`, so loading and this process takes a while (around 120secs).
+It contains huge amount of datasets `(223 mb / ~ 40,000,000 rows of data!)`, this process takes a while (around 120secs). 
 
-**Have patience. All things are difficult before they become easy**
+**Have patience. All things are difficult before they become easy** :inbox_tray: :coffee: :innocent:
 
     
 Usage :office::wrench::card_index:
