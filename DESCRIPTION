@@ -1,0 +1,17 @@
+Package: nse1minR
+Title: Data package for NIFTY 1 min chart
+Version: 0.0.1
+Authors@R: person("Ramanathan", "Perumal", email = "ramamet4@gmail.com", role = c("aut", "cre"))
+Description: In this package, National Stock Exchange(NSE), India stocks under
+             different sectors are mined from various web sources and data
+             science processing steps are followed. Primary objective of this work is to
+             identify the hidden context patterns between diverse group of stocks
+             and discover the hidden knowledge. You may find here a vast useful source of 
+             1-Min chart data for NIFTY50 index, BANK NIFTY index and 
+             502 individual stocks. 
+Depends:
+    R (>= 3.3.0)
+License:  MIT license
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
