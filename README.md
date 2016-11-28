@@ -1,5 +1,4 @@
 
-
 nse1minR - Useful R data package for intraday traders 
 ===========================================================================
 
@@ -31,7 +30,7 @@ We'll first load the package, and then see how all other datasources to be used.
 ![nse-logo](https://cloud.githubusercontent.com/assets/16385390/20669749/20b69fd4-b576-11e6-8011-4cc1d1009311.jpg)
 
 
-NIFTY50 index :vertical_traffic_light:
+NIFTY50 index :euro:
 -----
 The NIFTY 50 index is National Stock Exchange of India's benchmark 
  stock market index for Indian equity market.
