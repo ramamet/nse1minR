@@ -1,3 +1,5 @@
+
+
 nse1minR - Useful R data package for intraday traders 
 ===========================================================================
 
@@ -69,7 +71,7 @@ BANK NIFTY :bank:
         5 BANKNIFTY 20121203 09:20 12162.80 12162.80 12148.20 12151.15 2012DECBNF.txt
         6 BANKNIFTY 20121203 09:21 12152.95 12159.90 12151.90 12158.15 2012DECBNF.txt
         
-Company List
+Company List :game_die:
 -----
 
 It contains the 502 company name list and their id for accessing the 
