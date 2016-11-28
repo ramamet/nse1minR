@@ -29,7 +29,7 @@ We'll first load the package, and then see how all other datasources to be used.
 ![nse-logo](https://cloud.githubusercontent.com/assets/16385390/20669749/20b69fd4-b576-11e6-8011-4cc1d1009311.jpg)
 
 
-NIFTY50 index
+NIFTY50 index :vertical_traffic_light:
 -----
 The NIFTY 50 index is National Stock Exchange of India's benchmark 
  stock market index for Indian equity market.
@@ -50,7 +50,7 @@ The NIFTY 50 index is National Stock Exchange of India's benchmark
         5 NIFTY 20130401 09:20 5694.40 5695.05 5693.35 5694.55 2013APRNIFTY.txt
         6 NIFTY 20130401 09:21 5694.10 5700.05 5694.10 5697.20 2013APRNIFTY.txt
  
-BANK NIFTY 
+BANK NIFTY :bank:
 -----
 
  Bank Nifty represents the 12 most liquid and
@@ -87,7 +87,7 @@ A data frame with 3 variables: company, id, and file
         5              A B B Limited        ABB nse_AA
         6       Abbott India Limited ABBOTINDIA nse_AA
  
-Stocks Database
+Stocks Database :factory:
 -----
  Choosing individual stocks from other companies can have 
  advantages over fund allocation for the investors. 
@@ -110,7 +110,7 @@ Stocks Database
         6 BAJAJCORP 20150703 09:21:00 437.85 438.70 437.85 438.70 1013
 
  
-rawData 
+rawData :floppy_disk:
 -----
 The datasets were captured from the following website using `Wget`. 
 
